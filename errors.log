@@ -16,30 +16,3 @@ Sat25 22:50:34,352 - [Impala.Core.Array.ReadImage ] Don't understand d:\node_wor
 Sat25 22:50:34,352 - [Sandbox.koen.mainColorDescriptor ] [ERROR] Could not read input file: is it really a valid image? d:\node_work\public\piclib\1.jpg
 Sat25 23:12:03,701 - [Impala.Core.Array.ReadFile ] Don't know how to read d:\node_work\public\piclib\1.bmp
 Sat25 23:12:03,701 - [Sandbox.koen.mainColorDescriptor ] [ERROR] Could not read input file: is it really a valid image? d:\node_work\public\piclib\1.bmp
-Sun26 14:09:36,099 - [Impala.Core.Array.ReadImageIdentity ] Buffer size too small (0) to identify file
-Sun26 14:09:36,292 - [Impala.Core.Array.ReadImage ] Don't understand d:\node_work\public\piclib\1.jpg
-Sun26 14:09:36,292 - [Sandbox.koen.mainColorDescriptor ] [ERROR] Could not read input file: is it really a valid image? d:\node_work\public\piclib\1.jpg
-Sun26 14:10:24,868 - [Impala.Core.Array.ReadImageIdentity ] Buffer size too small (0) to identify file
-Sun26 14:10:24,868 - [Impala.Core.Array.ReadImage ] Don't understand \node_work\public\piclib\1.jpg
-Sun26 14:10:24,868 - [Sandbox.koen.mainColorDescriptor ] [ERROR] Could not read input file: is it really a valid image? \node_work\public\piclib\1.jpg
-Sun26 14:27:30,414 - [Impala.Core.Array.ReadFile ] Don't know how to read d:\node_work\public\piclib\6.bmp
-Sun26 14:27:30,414 - [Sandbox.koen.mainColorDescriptor ] [ERROR] Could not read input file: is it really a valid image? d:\node_work\public\piclib\6.bmp
-Sun26 14:38:33,642 - [Impala.Persistency.FileSystem ] Unable to find blic/piclib/2.jpg in path 
-Sun26 14:38:33,643 - [Impala.Core.Array.ReadFile ] Don't know how to read 
-Sun26 14:38:33,643 - [Sandbox.koen.mainColorDescriptor ] [ERROR] Could not read input file: is it really a valid image? blic/piclib/2.jpg
-Sun26 14:43:03,459 - [Impala.Core.Array.ReadImageIdentity ] Buffer size too small (0) to identify file
-Sun26 14:43:03,459 - [Impala.Core.Array.ReadImage ] Don't understand public/piclib/1.jpg
-Sun26 14:43:03,459 - [Sandbox.koen.mainColorDescriptor ] [ERROR] Could not read input file: is it really a valid image? public/piclib/1.jpg
-Sun26 14:47:36,461 - [Impala.Persistency.FileSystem ] Unable to find blic/piclib/2.jpg in path 
-Sun26 14:47:36,461 - [Impala.Core.Array.ReadFile ] Don't know how to read 
-Sun26 14:47:36,461 - [Sandbox.koen.mainColorDescriptor ] [ERROR] Could not read input file: is it really a valid image? blic/piclib/2.jpg
-Sun26 14:53:05,999 - [Impala.Persistency.FileSystem ] Unable to find blic/piclib/1.jpg in path 
-Sun26 14:53:05,999 - [Impala.Core.Array.ReadFile ] Don't know how to read 
-Sun26 14:53:05,999 - [Sandbox.koen.mainColorDescriptor ] [ERROR] Could not read input file: is it really a valid image? blic/piclib/1.jpg
-Sun26 14:57:40,405 - [Impala.Persistency.FileSystem ] Unable to find blic/piclib/1.jpg in path 
-Sun26 14:57:40,405 - [Impala.Core.Array.ReadFile ] Don't know how to read 
-Sun26 14:57:40,405 - [Sandbox.koen.mainColorDescriptor ] [ERROR] Could not read input file: is it really a valid image? blic/piclib/1.jpg
-Sun26 15:17:33,308 - [Impala.CmdOptions ] Need more arguments: 0 found, 1 expected
-Sun26 15:18:24,858 - [Impala.Persistency.FileSystem ] Unable to find 2 in path 
-Sun26 15:18:24,858 - [Impala.Core.Array.ReadFile ] Don't know how to read 
-Sun26 15:18:24,858 - [Sandbox.koen.mainColorDescriptor ] [ERROR] Could not read input file: is it really a valid image? 2
